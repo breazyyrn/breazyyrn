@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breazyyrn&" alt="breazyyrn" /></p>
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
