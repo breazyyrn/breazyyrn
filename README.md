@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/breazyyrn" target="blank"><img src="https://img.shields.io/twitter/follow/breazyyrn?logo=twitter&style=for-the-badge" alt="breazyyrn" /></a> </p>
 
-- 🔭 I’m currently working on [Traffic](https://github.com/breazyyrn/Traffic)
-
 - 🌱 I’m currently learning **Software Engineering & Computer Organizations**
 
 - 👨‍💻 All of my projects are available at [https://github.com/breazyyrn?tab=repositories](https://github.com/breazyyrn?tab=repositories)
