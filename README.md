@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=breazyyrn&show_icons=true&locale=en&layout=compact" alt="breazyyrn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=breazyyrn&show_icons=true&locale=en" alt="breazyyrn" /></p>
-
 <p><img align = "left" src="https://img.shields.io/badge/BT-Software%20Engineer-blue" /></p>
